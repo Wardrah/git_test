@@ -1,3 +1,7 @@
 THIS IS STRICTLY FOR PRACTICE!!
 
 I AM PRACTICING WHAT I HAVE LEARNED!!
+
+
+12/08/21 Day 1: This has been a productive day I have been able to understand repositories 
+and git. Setting all of this up was difficult but I feel confident in my abilities so far.
